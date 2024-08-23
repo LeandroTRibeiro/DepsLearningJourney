@@ -43,4 +43,6 @@ Console.WriteLine("Hello, World!");
 
 Nesse exemplo, `WriteLine` é o método que pertence à classe Console, e ele imprime o texto "Hello, World!" no console, seguido de uma nova linha.
 
+## Documentação Oficial 📚
+
 A classe `Console` possui vários outros métodos que podem ser encontrados na [documentação oficial](https://learn.microsoft.com/pt-br/dotnet/api/system.console?view=net-8.0).
