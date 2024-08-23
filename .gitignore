@@ -1,0 +1,135 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.obj
+*.pdb
+*.pyc
+*.pyo
+*.lib
+*.a
+*.dylib
+*.lo
+*.slo
+*.lai
+*.la
+
+# Rider specific files #
+.idea/
+*.sln.iml
+
+# User-specific files #
+#######################
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files #
+#############################
+mono_crash.*
+
+# VS Code files #
+#################
+.vscode/
+
+# Mac/Linux hidden files #
+##########################
+*.DS_Store
+*.AppleDouble
+*.LSOverride
+
+# Windows image file caches #
+#############################
+Thumbs.db
+ehthumbs.db
+
+# Folder config file #
+desktop.ini
+
+# Recycle Bin used on file shares #
+$RECYCLE.BIN/
+
+# Windows Installer files #
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts #
+*.lnk
+
+# Rider project files #
+.idea/
+.idea_modules/
+.idea_cache/
+.idea_crash/
+.idea_favorites/
+.idea_indexes/
+.idea_libraries/
+.idea_modules/
+.idea_plugins/
+.idea_runConfigurations/
+.idea_tasks/
+.idea_workingSets/
+.idea_misc.xml
+.idea_artifacts.xml
+.idea_compilation.xml
+.idea_databases.xml
+.idea_editor.xml
+.idea_goals.xml
+.idea_inspections.xml
+.idea_misc.xml
+.idea_module.xml
+.idea_other.xml
+.idea_project.xml
+.idea_projectView.xml
+.idea_runConfigurations.xml
+.idea_shelves.xml
+.idea_usage.xml
+.idea_vcs.xml
+.idea_workspace.xml
+
+# Output folders #
+##################
+bin/
+obj/
+
+# Packages #
+############
+*.nupkg
+*.snupkg
+*.nuspec
+.packages/
+.nuget/
+
+# Rider cache #
+###############
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+.idea_modules_index/
+.idea_cache/
+.idea/workspace.xml
+.idea_artifacts.xml
+.idea_modules.xml
+.idea_tasks.xml
+.idea_compilation.xml
+.idea_editor.xml
+.idea_usage.xml
+
+# Rider logs #
+##############
+.idea/workspace.xml
+.idea_modules.xml
+.idea_tasks.xml
+
+# Rider artifact #
+##################
+.idea/*.iml
