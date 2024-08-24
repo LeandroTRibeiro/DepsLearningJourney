@@ -177,4 +177,4 @@ Console.WriteLine(false ? "true" : "false");
 
 ## 6. Documentação Oficial 📚
 
-Para mais detalhes sobre estruturas condicionais e operadores em C#, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/statements/selection-statements).
+Para mais detalhes sobre estruturas condicionais e operadores em C#, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).

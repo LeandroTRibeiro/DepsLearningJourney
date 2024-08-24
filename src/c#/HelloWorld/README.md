@@ -45,4 +45,4 @@ Nesse exemplo, `WriteLine` é o método que pertence à classe Console, e ele im
 
 ## Documentação Oficial 📚
 
-A classe `Console` possui vários outros métodos que podem ser encontrados na [documentação oficial](https://learn.microsoft.com/pt-br/dotnet/api/system.console?view=net-8.0).
+A classe `Console` possui vários outros métodos que podem ser encontrados na [documentação oficial](https://learn.microsoft.com/pt-br/dotnet/csharp/).
