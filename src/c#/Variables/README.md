@@ -88,4 +88,4 @@ Console.WriteLine($"Valor da variável com inferência de tipo: {inferredVariabl
 
 ## Documentação Oficial 📚
 
-Para obter mais informações detalhadas sobre variáveis, e escopo de variáveis, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/statements/declarations).
+Para obter mais informações detalhadas sobre variáveis, e escopo de variáveis, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).

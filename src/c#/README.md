@@ -26,3 +26,8 @@ Para seguir os exemplos e projetos desta pasta, você precisará do seguinte:
 
 - [**Declaração de Variáveis**](Variables): Exemplos sobre como declarar variáveis, constantes e como utilizá-las em diferentes escopos em C#.
 
+
+- [**Estruturas Condicionais e Operadores**](ConditionalAndOperators): Exemplos de uso de estruturas condicionais e operadores em C#.
+
+
+- [**Arrays**](Arrays): Exemplos de como declarar, inicializar e manipular arrays unidimensionais e multidimensionais em C#, além do uso de métodos de instância e estáticos da classe `Array`.

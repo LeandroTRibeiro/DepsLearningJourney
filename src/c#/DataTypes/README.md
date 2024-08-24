@@ -74,6 +74,6 @@ Console.WriteLine($"Guid: {userId} - Representa um identificador global único."
 
 ## Documentação Oficial 📚
 
-Para mais detalhes sobre os tipos de dados em C#, incluindo outros conceitos interessantes como `enum`, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/fundamentals/types/).
+Para mais detalhes sobre os tipos de dados em C#, incluindo outros conceitos interessantes como `enum`, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
 
 

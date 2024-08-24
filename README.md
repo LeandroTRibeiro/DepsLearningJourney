@@ -3,11 +3,10 @@
 # Deps Learning Journey 📚
 
 
-Aqui está a introdução revisada com a adição do desafio pessoal que você mencionou:
+Este repositório foi criado para organizar e armazenar todo o material de estudo e prática desenvolvido durante meu estágio na Deps. Ele abrange temas como a linguagem de programação C#, conceitos de arquitetura de software, desenvolvimento web (HTML, CSS, JavaScript, TypeScript, Angular) e fundamentos de banco de dados.
 
-Este repositório foi criado para organizar e armazenar todo o material de estudo e prática desenvolvido durante meu estágio na Deps. Ele abrange uma variedade de temas, incluindo a linguagem de programação C#, conceitos de arquitetura de software, desenvolvimento web (HTML, CSS, JavaScript, TypeScript, Angular), e fundamentos de banco de dados.
+C# é minha segunda linguagem de programação, e este repositório reflete meu desafio pessoal de aprender e me adaptar a um novo ambiente de desenvolvimento, usando Ubuntu e a IDE Rider. Documentar meu aprendizado me ajuda a fixar melhor os conhecimentos, a não esquecer pontos importantes, e também serve como uma ferramenta de revisão. Além disso, é uma oportunidade para praticar minhas habilidades com Git e GitHub.
 
-Além disso, este repositório documenta o desafio pessoal de aprender minha segunda linguagem de programação, C#, e a adaptação ao uso do sistema operacional Ubuntu e da IDE Rider. Este processo de aprendizado envolve não apenas adquirir novos conhecimentos técnicos, mas também me adaptar a um novo ambiente de desenvolvimento, tornando a jornada ainda mais enriquecedora.
 ## Estrutura do Repositório 📁
 
  - `docs/`: Contém documentações e anotações sobre os principais conceitos estudados, incluindo resumos e links para materiais adicionais.
