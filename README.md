@@ -13,7 +13,7 @@ Além disso, este repositório documenta o desafio pessoal de aprender minha seg
  - `docs/`: Contém documentações e anotações sobre os principais conceitos estudados, incluindo resumos e links para materiais adicionais.
 
 
- - `src/`: Reúne exemplos de código, projetos práticos e experimentos organizados por tópicos, como tipos de dados, controle de fluxo, classes e objetos, entre outros.
+ - [`src/`](src): Reúne exemplos de código, projetos práticos e experimentos organizados por tópicos, como tipos de dados, controle de fluxo, classes e objetos, entre outros.
 
 
  - `exercises/`: Inclui exercícios resolvidos para fixação de conteúdo, classificados por nível de dificuldade (básico, intermediário, avançado).
