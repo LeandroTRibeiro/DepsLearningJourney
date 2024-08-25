@@ -6,4 +6,4 @@ Esta pasta reúne exemplos de código, projetos práticos e experimentos organiz
 
 ## Conteúdo
 
-- [```C#```](c%23): Explora os fundamentos da linguagem, incluindo tipos de dados, controle de fluxo, classes e objetos, e muito mais.
+- [```C#```](c%23/README.md): Explora os fundamentos da linguagem, incluindo tipos de dados, controle de fluxo, classes e objetos, e muito mais.

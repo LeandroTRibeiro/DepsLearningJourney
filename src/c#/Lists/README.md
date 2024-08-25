@@ -1,5 +1,7 @@
 ﻿# Listas em C# 📋
 
+[Código 💻](Lists/Program.cs) Acesse o código aqui!.
+
 Este projeto demonstra o uso da classe `List<T>` em C#, abordando desde a declaração e inicialização de listas até a manipulação de elementos usando os métodos de instância mais comuns. O código foi criado para ilustrar como trabalhar com listas de forma eficiente e prática dentro de uma aplicação C#.
 
 ## O que é uma Lista?

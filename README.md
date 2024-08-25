@@ -9,13 +9,13 @@ Este repositório reflete meu desafio pessoal de aprender uma nova linguagem de 
 
 ## Estrutura do Repositório 📁
 
- - [`docs/`](docs): Contém documentações e anotações sobre os principais conceitos estudados, incluindo resumos e links para materiais adicionais.
+ - [`docs/`](docs/README.md): Contém documentações e anotações sobre os principais conceitos estudados, incluindo resumos e links para materiais adicionais.
 
 
- - [`src/`](src): Reúne exemplos de código, experimentos e práticas organizados por tópicos, desde a sintaxe básica da linguagem até conceitos mais avançados, entre outros.
+ - [`src/`](src/README.md): Reúne exemplos de código, experimentos e práticas organizados por tópicos, desde a sintaxe básica da linguagem até conceitos mais avançados, entre outros.
 
 
- - [`exercises/`](exercises): Inclui exercícios resolvidos para fixação de conteúdo.
+ - [`exercises/`](exercises/README.md): Inclui exercícios resolvidos para fixação de conteúdo.
 
 
  - `projects/`: Espaço reservado para projetos pessoais e estudos de caso que integram diversos conceitos estudados, permitindo a aplicação prática do conhecimento.

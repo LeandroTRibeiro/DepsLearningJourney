@@ -1,5 +1,7 @@
 ﻿# Arrays 📊
 
+[Código 💻](Arrays/Program.cs) Acesse o código aqui!.
+
 Este projeto demonstra o uso de arrays em C#, cobrindo desde arrays unidimensionais e multidimensionais até métodos de instância e métodos estáticos da classe `Array`.
 
 ## O que é um Array?
