@@ -2,6 +2,21 @@
 
 Este projeto apresenta exemplos de diversas estruturas condicionais e operadores em C#. Ele abrange o uso de `if`, `else if`, `else`, `switch`, operadores de comparação `>`, `<`, `==`, `!=`, `>=`, `<=`, operadores lógicos `&&`, `||`, `!`, operadores aritméticos `+`, `-`, `*`, `/`, `%`, `++`, `--`, e operadores ternários `?` `:`.
 
+## O que são Estruturas Condicionais e Operadores?
+### Estruturas Condicionais
+Estruturas condicionais são blocos de código que permitem que o programa tome decisões baseadas em condições específicas. Em C#, as principais estruturas condicionais são if, else if, else, e switch. Elas permitem que o programa execute diferentes blocos de código dependendo de uma condição booleana (verdadeira ou falsa).
+
+### Operadores
+Operadores são símbolos que indicam uma operação a ser realizada sobre operandos. Em C#, operadores podem ser de diferentes tipos, incluindo:
+
+- Operadores de Comparação: Usados para comparar valores (>, <, ==, !=, etc.).
+
+- Operadores Lógicos: Usados para combinar ou inverter condições (&&, ||, !).
+
+- Operadores Aritméticos: Usados para realizar operações matemáticas básicas (+, -, *, /, %).
+
+- Operador Ternário: Uma forma abreviada de escrever um if-else (? :).
+
 ## 1. Instruções de Seleção
 
 ### `if`, `else if`, `else`

@@ -2,6 +2,9 @@
 
 Este projeto demonstra o uso de arrays em C#, cobrindo desde arrays unidimensionais e multidimensionais até métodos de instância e métodos estáticos da classe `Array`.
 
+## O que é um Array?
+Um array é uma estrutura de dados que armazena uma coleção de elementos do mesmo tipo, organizados em uma sequência de índices. Em C#, arrays são alocados em um bloco contínuo de memória, onde cada elemento pode ser acessado diretamente através de seu índice. Arrays são úteis para armazenar múltiplos valores de forma ordenada e eficiente, mas têm tamanho fixo, o que significa que não podem ser redimensionados após a criação.
+
 ## 1. Arrays Unidimensionais
 
 Arrays unidimensionais são a forma mais simples de arrays, onde os elementos são organizados linearmente.

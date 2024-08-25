@@ -1,6 +1,27 @@
-﻿# Variables 🔠
+﻿# Variables 💾
 
 Este projeto demonstra diferentes tipos de variáveis em C#, incluindo variáveis de instância, estáticas, privadas, locais, constantes, e o uso de variáveis com inferência de tipo (`var`). O código foi criado para ilustrar como cada tipo de variável é declarado, acessado e utilizado dentro de uma classe.
+
+## O que são Variáveis?
+Em C#, variáveis são contêineres que armazenam dados que podem ser manipulados durante a execução do programa. Cada variável tem um tipo, que define o tipo de dados que ela pode armazenar, como inteiros, caracteres, booleanos, etc.
+
+### Tipos de Variáveis
+- Variáveis de Instância: Associadas a uma instância de uma classe, acessíveis apenas através de um objeto dessa classe.
+
+
+- Variáveis Estáticas: Pertencem à classe em si, em vez de a uma instância, e são compartilhadas por todas as instâncias da classe.
+
+
+- Variáveis Privadas: Acessíveis apenas dentro da classe onde foram declaradas, usadas para encapsular os dados e proteger o estado interno de um objeto.
+
+
+- Variáveis Locais: Declaradas dentro de métodos ou blocos de código e acessíveis apenas dentro desse escopo.
+
+
+- Constantes: Variáveis que são atribuídas um valor no momento da declaração e não podem ser alteradas posteriormente.
+
+
+- Inferência de Tipo (var): Permite ao compilador inferir o tipo da variável com base no valor atribuído a ela, proporcionando flexibilidade na codificação.
 
 ## Variáveis de Instância
 

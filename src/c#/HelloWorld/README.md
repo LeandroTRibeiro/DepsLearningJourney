@@ -1,6 +1,6 @@
 # Hello World 🌏
 
-Este projeto apresenta um exemplo básico em C#, que é o clássico "Hello, World!" uma introdução à sintaxe básica da linguagem. Abaixo, explicamos brevemente os principais elementos do código:
+Este projeto apresenta um exemplo básico em C#, que é o clássico "Hello, World!" uma introdução à sintaxe básica da linguagem. Abaixo, explicamos brevemente os principais elementos do código.
 
 ## Explicação do Código 📝
 
