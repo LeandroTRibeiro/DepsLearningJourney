@@ -31,3 +31,6 @@ Para seguir os exemplos e projetos desta pasta, você precisará do seguinte:
 
 
 - [**Arrays**](Arrays): Exemplos de como declarar, inicializar e manipular arrays unidimensionais e multidimensionais em C#, além do uso de métodos de instância e estáticos da classe `Array`.
+
+
+- [**Listas**](Lists): Exemplos de como declarar, inicializar e manipular listas em C#, utilizando métodos de instância da classe `List<T>`.
