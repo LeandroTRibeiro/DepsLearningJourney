@@ -5,17 +5,17 @@
 
 Este repositório foi criado para organizar e armazenar todo o material de estudo e prática desenvolvido durante meu estágio na Deps. Ele abrange temas como a linguagem de programação C#, conceitos de arquitetura de software, desenvolvimento web (HTML, CSS, JavaScript, TypeScript, Angular) e fundamentos de banco de dados.
 
-C# é minha segunda linguagem de programação, e este repositório reflete meu desafio pessoal de aprender e me adaptar a um novo ambiente de desenvolvimento, usando Ubuntu e a IDE Rider. Documentar meu aprendizado me ajuda a fixar melhor os conhecimentos, a não esquecer pontos importantes, e também serve como uma ferramenta de revisão. Além disso, é uma oportunidade para praticar minhas habilidades com Git e GitHub.
+Este repositório reflete meu desafio pessoal de aprender uma nova linguagem de programação e me adaptar a um novo ambiente de desenvolvimento, usando Ubuntu e a IDE Rider. Documentar meu aprendizado me ajuda a fixar melhor os conhecimentos, a não esquecer pontos importantes, e também serve como uma ferramenta de revisão. Além disso, é uma oportunidade para praticar minhas habilidades como Git, GitHub, entre outras.
 
 ## Estrutura do Repositório 📁
 
- - `docs/`: Contém documentações e anotações sobre os principais conceitos estudados, incluindo resumos e links para materiais adicionais.
+ - [`docs/`](docs): Contém documentações e anotações sobre os principais conceitos estudados, incluindo resumos e links para materiais adicionais.
 
 
- - [`src/`](src): Reúne exemplos de código, projetos práticos e experimentos organizados por tópicos, como tipos de dados, controle de fluxo, classes e objetos, entre outros.
+ - [`src/`](src): Reúne exemplos de código, experimentos e práticas organizados por tópicos, desde a sintaxe básica da linguagem até conceitos mais avançados, entre outros.
 
 
- - `exercises/`: Inclui exercícios resolvidos para fixação de conteúdo, classificados por nível de dificuldade (básico, intermediário, avançado).
+ - [`exercises/`](exercises): Inclui exercícios resolvidos para fixação de conteúdo.
 
 
  - `projects/`: Espaço reservado para projetos pessoais e estudos de caso que integram diversos conceitos estudados, permitindo a aplicação prática do conhecimento.
