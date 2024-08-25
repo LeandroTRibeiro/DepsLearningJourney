@@ -13,10 +13,10 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 
 ## Exercícios Disponíveis
 
-- [**Busca Binária**](BinarySearch): Implementação do algoritmo de busca binária, um método eficiente para encontrar um elemento em um array ordenado.
+- [**Busca Binária**](BinarySearch/BinarySearch/Program.cs): Implementação do algoritmo de busca binária, um método eficiente para encontrar um elemento em um array ordenado.
 
 
-- [**Rearranjo de Arrays**](ArrayRearrangement): Manipulação de um array para mover números negativos para o início, seguidos pelos números positivos, com os negativos em ordem decrescente e os positivos em ordem crescente.
+- [**Rearranjo de Arrays**](ArrayRearrangement/ArrayRearrangement/Program.cs): Manipulação de um array para mover números negativos para o início, seguidos pelos números positivos, com os negativos em ordem decrescente e os positivos em ordem crescente.
 
 ## Documentação Oficial 📚
 

@@ -31,13 +31,13 @@ Esta pasta contém uma série de exercícios resolvidos que foram desenvolvidos 
 
 ### Navegação
 
-- [Fundamentos de C#](c%23): Exercícios básicos para começar a programar em C#.
+- [Fundamentos de C#](c%23/README.md): Exercícios básicos para começar a programar em C#.
 
 
-- [Orientação a Objetos](): Problemas que envolvem conceitos de POO em C#.
+- Orientação a Objetos: Problemas que envolvem conceitos de POO em C#.
 
 
-- [Desenvolvimento Web](): Desafios para solidificar o conhecimento em tecnologias web.
+- Desenvolvimento Web: Desafios para solidificar o conhecimento em tecnologias web.
 
 
-- [Banco de Dados](): Tarefas que testam habilidades de modelagem e consultas em SQL.
+- Banco de Dados: Tarefas que testam habilidades de modelagem e consultas em SQL.

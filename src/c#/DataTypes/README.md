@@ -1,5 +1,7 @@
 # Tipos de Dados 📊
 
+[Código 💻](DataTypes/Program.cs) Acesse o código aqui!.
+
 Este projeto apresenta exemplos de diversos tipos de dados em C#, incluindo tipos primitivos e não primitivos. Cada exemplo inclui uma breve explicação sobre o tipo de dado e sua utilização.
 
 ## O que são Tipos de Dados?

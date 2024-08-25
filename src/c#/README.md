@@ -18,19 +18,19 @@ Para seguir os exemplos e projetos desta pasta, você precisará do seguinte:
 
 ## Conteúdo
 
-- [**Sintaxe Básica**](HelloWorld): Introdução à sintaxe básica do C#, incluindo a estrutura do programa, namespaces, e o uso de escrita no console.
+- [**Sintaxe Básica**](HelloWorld/README.md): Introdução à sintaxe básica do C#, incluindo a estrutura do programa, namespaces, e o uso de escrita no console.
 
 
-- [**Tipos de Dados**](DataTypes): Exemplos dos diferentes tipos de dados em C#, tanto os primitivos quanto os demais, e seu uso na declaração de variáveis.
+- [**Tipos de Dados**](DataTypes/README.md): Exemplos dos diferentes tipos de dados em C#, tanto os primitivos quanto os demais, e seu uso na declaração de variáveis.
 
 
-- [**Declaração de Variáveis**](Variables): Exemplos sobre como declarar variáveis, constantes e como utilizá-las em diferentes escopos em C#.
+- [**Declaração de Variáveis**](Variables/README.md): Exemplos sobre como declarar variáveis, constantes e como utilizá-las em diferentes escopos em C#.
 
 
-- [**Estruturas Condicionais e Operadores**](ConditionalAndOperators): Exemplos de uso de estruturas condicionais e operadores em C#.
+- [**Estruturas Condicionais e Operadores**](ConditionalAndOperators/README.md): Exemplos de uso de estruturas condicionais e operadores em C#.
 
 
-- [**Arrays**](Arrays): Exemplos de como declarar, inicializar e manipular arrays unidimensionais e multidimensionais em C#, além do uso de métodos de instância e estáticos da classe `Array`.
+- [**Arrays**](Arrays/README.md): Exemplos de como declarar, inicializar e manipular arrays unidimensionais e multidimensionais em C#, além do uso de métodos de instância e estáticos da classe `Array`.
 
 
-- [**Listas**](Lists): Exemplos de como declarar, inicializar e manipular listas em C#, utilizando métodos de instância da classe `List<T>`.
+- [**Listas**](Lists/README.md): Exemplos de como declarar, inicializar e manipular listas em C#, utilizando métodos de instância da classe `List<T>`.
