@@ -2,6 +2,31 @@
 
 Este projeto apresenta exemplos de diversos tipos de dados em C#, incluindo tipos primitivos e não primitivos. Cada exemplo inclui uma breve explicação sobre o tipo de dado e sua utilização.
 
+## O que são Tipos de Dados?
+Em C#, tipos de dados definem o tipo de informações que uma variável pode armazenar e as operações que podem ser realizadas sobre ela. Existem dois principais grupos de tipos de dados:
+
+### Tipos Primitivos
+Os tipos primitivos são tipos de dados básicos incorporados na linguagem C#. Eles incluem:
+
+- Tipos Numéricos Inteiros: int, long, short, byte, etc.
+
+- Tipos Numéricos de Ponto Flutuante: float, double, decimal.
+
+- Tipo de Caractere: char.
+
+- Tipo Booleano: bool, que pode conter apenas true ou false.
+
+### Tipos Não Primitivos
+Os tipos não primitivos, também conhecidos como tipos de referência, são mais complexos e incluem:
+
+- Strings: Representam uma sequência de caracteres (string).
+
+- Arrays: Coleções de elementos do mesmo tipo.
+
+- Classes e Objetos: Definidos pelo usuário para modelar objetos no mundo real.
+
+- Enums e Structs: Usados para definir conjuntos de constantes e tipos de valor personalizados.
+
 ## Tipos Primitivos 
 
 - `char`  Representa um único caractere Unicode.
