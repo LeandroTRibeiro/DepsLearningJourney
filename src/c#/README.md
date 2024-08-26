@@ -34,3 +34,6 @@ Para seguir os exemplos e projetos desta pasta, você precisará do seguinte:
 
 
 - [**Listas**](Lists/README.md): Exemplos de como declarar, inicializar e manipular listas em C#, utilizando métodos de instância da classe `List<T>`.
+
+
+- [**Métodos**](Methods/README.md): Exemplos de criação e utilização de métodos em C#, incluindo métodos recursivos.
