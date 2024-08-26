@@ -40,3 +40,5 @@ Para seguir os exemplos e projetos desta pasta, você precisará do seguinte:
 
 
 - [**Métodos**](Methods/README.md): Exemplos de criação e utilização de métodos em C#, incluindo métodos recursivos.
+
+-[**Filas**](Queue/README.md): Exemplos de criação e manipulação de Filas em C#.
