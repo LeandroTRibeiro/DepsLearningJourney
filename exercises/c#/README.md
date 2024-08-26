@@ -18,6 +18,12 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 
 - [**Rearranjo de Arrays**](ArrayRearrangement/ArrayRearrangement/Program.cs): Manipulação de um array para mover números negativos para o início, seguidos pelos números positivos, com os negativos em ordem decrescente e os positivos em ordem crescente.
 
+
+- [**Verificação de Palíndromo**](IsPalindrome/IsPalindrome/Program.cs): Verifique se uma string é um palíndromo, ignorando espaços, pontuações e diferenças entre maiúsculas e minúsculas.
+
+
+- [**Comprimindo uma string**](StringCompression/StringCompression/Program.cs): comprima uma string usando a contagem de caracteres repetidos consecutivamente.
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
