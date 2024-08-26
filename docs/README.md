@@ -16,4 +16,8 @@ Esta seção explora as principais diferenças entre `Array` e `List` em C#.
 - [Instance vs Static Methods](InstanceVsStaticMethods/README.md)  
   Este documento explica as principais diferenças entre métodos de instância e métodos estáticos em C#, com exemplos práticos usando arrays.
 
+
+- [**Access Modifiers**](AccessModifiers/README.md)  
+  Este documento explora os principais modificadores de acesso em C#.
+
 Mantenha a documentação atualizada e organizada para facilitar a vida de todos os que estão envolvidos no projeto!
