@@ -7,12 +7,15 @@ Este projeto demonstra o conceito de encapsulamento em C# através da implementa
 Encapsulamento é a prática de restringir o acesso direto aos dados de um objeto, permitindo o acesso e modificação desses dados apenas por meio de métodos e propriedades controladas. Isso ajuda a proteger a integridade dos dados e a modularidade do código.
 
 ## Implementação
+Neste exemplo, a classe Pessoa demonstra diferentes formas de encapsulamento através do uso de propriedades e métodos. Abaixo, detalhamos o propósito e o nível de acesso de cada atributo:
 
-Neste exemplo, a classe `Pessoa` possui os seguintes atributos:
+- `FirstName`: A propriedade FirstName é pública para leitura, permitindo que qualquer código fora da classe obtenha o valor do nome. No entanto, a definição desse valor é restrita à própria classe ou ao construtor, garantindo que o nome não seja alterado de forma inadvertida após a criação do objeto.
 
-- `FirstName`: A propriedade é pública para leitura, mas seu valor só pode ser definido dentro da classe ou através do construtor.
-- `LastName`: A propriedade pode ser lida e modificada publicamente.
-- `Age`: O campo é privado, sendo acessível apenas através do método público `GetAge()`.
+
+- `LastName`: A propriedade LastName tem um acesso mais restritivo. Sua leitura é privada, o que significa que somente a própria classe pode acessar o valor internamente. Contudo, a propriedade pode ser modificada publicamente, permitindo que o sobrenome seja alterado por outros objetos ou métodos externos à classe.
+
+
+- `Age`: Diferente dos outros atributos, Age é um campo privado. Isso significa que ele não pode ser acessado diretamente de fora da classe. Em vez disso, a idade só pode ser obtida através do método público GetAge(), oferecendo controle total sobre como e quando esse valor é exposto.
 
 ### Código de Exemplo
 
