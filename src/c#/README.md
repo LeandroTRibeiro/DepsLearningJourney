@@ -40,3 +40,15 @@ Para seguir os exemplos e projetos desta pasta, você precisará do seguinte:
 
 
 - [**Métodos**](Methods/README.md): Exemplos de criação e utilização de métodos em C#, incluindo métodos recursivos.
+
+
+- [**Filas**](Queue/README.md): Exemplos de criação e manipulação de Filas em C#.
+
+
+- [**POO Basics**](OOPBasics/README.md): Conceitos básicos de Programação Orientada a Objetos (POO) em C#.
+
+
+- [**Herança**](Inheritance/README.md): Exemplos de herança e reutilização de código em C#.
+
+
+- [**Encapsulamento**](Encapsulation/README.md): Exemplos de encapsulamento e controle de acesso em C#.
