@@ -24,6 +24,13 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 
 - [**Comprimindo uma string**](StringCompression/StringCompression/Program.cs): comprima uma string usando a contagem de caracteres repetidos consecutivamente.
 
+
+- [**Ordenando uma lista com QuickSort**](QuickSort/QuickSort/Program.cs): implemente o algoritmo QuickSort para ordenar uma lista de inteiros utilizando recursão e particionamento baseado em um pivô.
+
+
+- [**Gerenciamento de Tarefas**](TaskLIst/Program.cs): implemente uma aplicação de console em C# para gerenciar tarefas, incluindo funcionalidades como adicionar, remover, editar, e listar tarefas, com validações adequadas e interação com o usuário através do console.
+
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
