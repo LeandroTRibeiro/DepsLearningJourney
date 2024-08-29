@@ -22,54 +22,19 @@ namespace TaskLIst
                         Console.WriteLine("Encerrando o programa!...");
                         break;
                     case 1:
-                        MenuHelper.ReadTask(taskService);
+                        MenuHelper.ReadAndAddTask(taskService);
                         break;
                     case 2:
-                        MenuHelper.FoundTask(taskService);
-                        // if (searchResults != null)
-                        // {
-                        //     if (searchResults.IsById) taskService.SearchTasksById(searchResults.TaskId);
-                        //     if (searchResults.IsByTitle) taskService.SearchTasksByTitle(searchResults.TaskTitle);
-                        //     if (searchResults.ListAllTasks) taskService.ShowLIst();
-                        //
-                        //     int taskId;
-                        //     
-                        //     Console.WriteLine("Digite o id da task que deseja remover: ");
-                        //     while (!int.TryParse(Console.ReadLine(), out taskId))
-                        //     {
-                        //         Console.WriteLine("ID invalido! DIgite novamente: ");
-                        //     }
-                        //     
-                        //     taskService.RemoveTask(taskId);
-                        //
-                        //     
-                        // }
+                        MenuHelper.RemoveTask(taskService);
+                        break;
+                    case 3:
+                        MenuHelper.EditTask(taskService);
+                        break;
+                    case 4:
+                        MenuHelper.ShowAllTasks(taskService);
                         break;
                     case 5:
-                        taskService.ShowLIst();
-                        Console.WriteLine("Precione qualquer tecla para continuar...");
-                        Console.ReadKey();
-                        break;
-                    case 6:
-                        // SearchResults searchResults = MenuHelper.FoundTask();
-                        // if (searchResults != null)
-                        // {
-                        //     if (searchResults.IsById) taskService.SearchTasksById(searchResults.TaskId);
-                        //     if (searchResults.IsByTitle) taskService.SearchTasksByTitle(searchResults.TaskTitle);
-                        //     if (searchResults.ListAllTasks) taskService.ShowLIst();
-                        //
-                        //     int taskId;
-                        //     
-                        //     Console.WriteLine("Digite o id da task que deseja remover: ");
-                        //     while (!int.TryParse(Console.ReadLine(), out taskId))
-                        //     {
-                        //         Console.WriteLine("ID invalido! DIgite novamente: ");
-                        //     }
-                        //     
-                        //     taskService.RemoveTask(taskId);
-                        //
-                        //     
-                        // }
+                        MenuHelper.FoundTask(taskService);
                         break;
                 }
                 

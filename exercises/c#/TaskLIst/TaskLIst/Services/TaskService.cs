@@ -10,25 +10,30 @@ public class TaskService
         Console.WriteLine("Task added");
     }
 
-    public void ShowTask(int taskId)
+    public bool ShowTask(int taskId)
     {
         Task task = FoundTaskById(taskId);
 
         if (task != null)
         {
             task.ShowDetails();
+            return true;
         }
+
+        return false;
     }
 
     public void ShowLIst()
     {
+        Console.Clear();
         if (_tasks.Count > 0)
         {
             foreach (Task task in _tasks)
             {
                 task.ShowDetails();
             }
-            
+            Console.WriteLine("Precione qualquer tecla para continuar...");
+            Console.ReadKey();
         }
         else
         {
@@ -101,7 +106,9 @@ public class TaskService
         }
         else
         {
-            Console.WriteLine("Task not found");
+            Console.WriteLine($"Tarefa com o id: {taskId}, não encontrada!");
+            Console.WriteLine("Precione qualquer tecla para continuar...");
+            Console.ReadKey();
         }
     }
     
@@ -118,7 +125,7 @@ public class TaskService
         }
         else
         {
-            Console.WriteLine("Task not found");
+            Console.WriteLine($"Tarefa com o título: {taskTitle}, não encontrada!");
         }
     }
 
@@ -133,7 +140,9 @@ public class TaskService
         }
         else
         {
-            Console.WriteLine($"Task {taskId} not found");
+            Console.WriteLine($"Tarefa com o id: {taskId}, não encontrada!");
+            Console.WriteLine("Precione qualquer tecla para continuar...");
+            Console.ReadKey();
             return null;
         }
     }
