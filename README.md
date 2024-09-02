@@ -18,7 +18,7 @@ Este repositório reflete meu desafio pessoal de aprender uma nova linguagem de 
  - [`exercises/`](exercises/README.md): Inclui exercícios resolvidos para fixação de conteúdo.
 
 
- - `projects/`: Espaço reservado para projetos pessoais e estudos de caso que integram diversos conceitos estudados, permitindo a aplicação prática do conhecimento.
+ - [`projects/`](projects): Espaço reservado para projetos pessoais e estudos de caso que integram diversos conceitos estudados, permitindo a aplicação prática do conhecimento.
 
 
  - `assets/`: Pasta dedicada ao armazenamento de recursos estáticos, como imagens e logos, usados nas documentações.
