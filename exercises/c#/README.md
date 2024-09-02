@@ -28,7 +28,10 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**Ordenando uma lista com QuickSort**](QuickSort/QuickSort/Program.cs): implemente o algoritmo QuickSort para ordenar uma lista de inteiros utilizando recursão e particionamento baseado em um pivô.
 
 
-- [**Gerenciamento de Tarefas**](TaskLIst/Program.cs): implemente uma aplicação de console em C# para gerenciar tarefas, incluindo funcionalidades como adicionar, remover, editar, e listar tarefas, com validações adequadas e interação com o usuário através do console.
+- [**Gerenciamento de Tarefas**](TaskLIst/Program.cs): uma aplicação de console em C# para gerenciar tarefas, incluindo funcionalidades como adicionar, remover, editar, e listar tarefas, com validações adequadas e interação com o usuário através do console.
+
+
+- [**Verificação de Anagramas**](Anagram/Anagram/Program.cs): uma aplicação de console em C# para verificar se duas strings são anagramas, considerando validações como ignorar espaços, pontuações, e diferenças entre maiúsculas e minúsculas.
 
 
 ## Documentação Oficial 📚
