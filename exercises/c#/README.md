@@ -37,6 +37,10 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**FindPairsWithSum**](FindPairsWithSum/FindPairsWithSum/Program.cs): uma aplicação de console em C# que encontra pares de números em uma lista cuja soma é igual a um valor alvo.
 
 
+- [**FizzBuzzPrime**](FizzBuzzPrime/FizzBuzzPrime/Program.cs): uma aplicação de console em C# que imprime números de 1 a 100, seguindo as regras de FizzBuzz e marcando números primos.
+
+
+
 
 ## Documentação Oficial 📚
 
