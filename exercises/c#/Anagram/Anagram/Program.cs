@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-            
             bool AreAnagram(string a, string b)
             {
                 var wordA = a.ToLower().Replace(" ", "").ToCharArray();
@@ -15,7 +14,7 @@
                 
                 return string.Equals(new string(wordA), new string(wordB));
             }
-            
+
             Console.WriteLine(AreAnagram("Listen", "Silent"));
             Console.WriteLine(AreAnagram("A gentleman", "Elegant man"));
             Console.WriteLine(AreAnagram("School master", "The classroom"));

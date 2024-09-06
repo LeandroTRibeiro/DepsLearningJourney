@@ -50,6 +50,9 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**ReverseWords**](ReverseWords/ReverseWords/Program.cs): uma aplicação de console em C# que inverte a ordem das palavras em uma frase, preservando os espaços entre elas.
 
 
+- [**IsPasswordValid**](IsPasswordValid/IsPasswordValid/Program.cs): uma aplicação de console em C# que valida uma senha de acordo com critérios como comprimento mínimo, presença de letras maiúsculas, minúsculas, números e caracteres especiais.
+
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
