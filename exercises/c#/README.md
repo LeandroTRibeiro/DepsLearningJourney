@@ -40,6 +40,7 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**FizzBuzzPrime**](FizzBuzzPrime/FizzBuzzPrime/Program.cs): uma aplicação de console em C# que imprime números de 1 a 100, seguindo as regras de FizzBuzz e marcando números primos.
 
 
+- [**SumOfDigits**](SumOfDigits/SumOfDigits/Program.cs): uma aplicação de console em C# que recebe um número e retorna a soma de seus dígitos, lidando com números positivos e negativos.
 
 
 ## Documentação Oficial 📚
