@@ -40,6 +40,17 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**FizzBuzzPrime**](FizzBuzzPrime/FizzBuzzPrime/Program.cs): uma aplicação de console em C# que imprime números de 1 a 100, seguindo as regras de FizzBuzz e marcando números primos.
 
 
+- [**SumOfDigits**](SumOfDigits/SumOfDigits/Program.cs): uma aplicação de console em C# que recebe um número e retorna a soma de seus dígitos, lidando com números positivos e negativos.
+
+
+
+- [**IsPerfectNumber**](IsPerfectNumber/IsPerfectNumber/Program.cs): uma aplicação de console em C# que verifica se um número é perfeito, somando seus divisores próprios e comparando com o número original.
+
+
+- [**ReverseWords**](ReverseWords/ReverseWords/Program.cs): uma aplicação de console em C# que inverte a ordem das palavras em uma frase, preservando os espaços entre elas.
+
+
+- [**IsPasswordValid**](IsPasswordValid/IsPasswordValid/Program.cs): uma aplicação de console em C# que valida uma senha de acordo com critérios como comprimento mínimo, presença de letras maiúsculas, minúsculas, números e caracteres especiais.
 
 
 ## Documentação Oficial 📚
