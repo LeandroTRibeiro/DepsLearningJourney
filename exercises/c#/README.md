@@ -47,6 +47,9 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**IsPerfectNumber**](IsPerfectNumber/IsPerfectNumber/Program.cs): uma aplicação de console em C# que verifica se um número é perfeito, somando seus divisores próprios e comparando com o número original.
 
 
+- [**ReverseWords**](ReverseWords/ReverseWords/Program.cs): uma aplicação de console em C# que inverte a ordem das palavras em uma frase, preservando os espaços entre elas.
+
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
