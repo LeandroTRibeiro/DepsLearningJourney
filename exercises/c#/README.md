@@ -52,6 +52,9 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**FindPrimesInRange**](FindPrimesInRange/FindPrimesInRange/Program.cs): uma aplicação de console em C# que encontra todos os números primos em um intervalo especificado, utilizando uma função otimizada para verificação de primalidade.
 
 
+- [**ReverseStringRecursive**](ReverseStringRecursive/ReverseStringRecursive/Program.cs): uma aplicação de console em C# que inverte uma string de forma recursiva, retornando a string invertida sem usar métodos prontos como `Reverse()` ou `Array.Reverse()`.
+
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
