@@ -49,6 +49,9 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**IsValidParentheses**](IsValidParentheses/IsValidParentheses/Program.cs): uma aplicação de console em C# que valida se uma sequência de parênteses está corretamente balanceada, utilizando uma pilha para comparar parênteses de abertura e fechamento.
 
 
+- [**FindPrimesInRange**](FindPrimesInRange/FindPrimesInRange/Program.cs): uma aplicação de console em C# que encontra todos os números primos em um intervalo especificado, utilizando uma função otimizada para verificação de primalidade.
+
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
