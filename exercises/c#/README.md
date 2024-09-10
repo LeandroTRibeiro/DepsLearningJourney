@@ -49,6 +49,15 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**IsValidParentheses**](IsValidParentheses/IsValidParentheses/Program.cs): uma aplicação de console em C# que valida se uma sequência de parênteses está corretamente balanceada, utilizando uma pilha para comparar parênteses de abertura e fechamento.
 
 
+- [**FindPrimesInRange**](FindPrimesInRange/FindPrimesInRange/Program.cs): uma aplicação de console em C# que encontra todos os números primos em um intervalo especificado, utilizando uma função otimizada para verificação de primalidade.
+
+
+- [**ReverseStringRecursive**](ReverseStringRecursive/ReverseStringRecursive/Program.cs): uma aplicação de console em C# que inverte uma string de forma recursiva, retornando a string invertida sem usar métodos prontos como `Reverse()` ou `Array.Reverse()`.
+
+
+- [**CharacterFrequency**](CharacterFrequency/CharacterFrequency/Program.cs): uma aplicação de console em C# que calcula a frequência de cada caractere em uma string, retornando um dicionário que armazena o número de ocorrências de cada caractere. O código também ignora espaços em branco na contagem.
+
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
