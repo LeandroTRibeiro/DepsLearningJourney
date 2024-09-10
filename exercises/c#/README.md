@@ -58,6 +58,9 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**CharacterFrequency**](CharacterFrequency/CharacterFrequency/Program.cs): uma aplicação de console em C# que calcula a frequência de cada caractere em uma string, retornando um dicionário que armazena o número de ocorrências de cada caractere. O código também ignora espaços em branco na contagem.
 
 
+- [**ContainsDuplicate**](ContainsDuplicate/ContainsDuplicate/Program.cs): uma aplicação de console em C# que verifica se um array de inteiros contém valores duplicados. Utiliza um `HashSet<int>` para realizar a verificação de forma eficiente, com complexidade O(n). Retorna `true` se houver duplicatas, ou `false` caso contrário.
+
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
