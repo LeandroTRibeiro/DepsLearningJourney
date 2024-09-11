@@ -61,6 +61,9 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**ContainsDuplicate**](ContainsDuplicate/ContainsDuplicate/Program.cs): uma aplicação de console em C# que verifica se um array de inteiros contém valores duplicados. Utiliza um `HashSet<int>` para realizar a verificação de forma eficiente, com complexidade O(n). Retorna `true` se houver duplicatas, ou `false` caso contrário.
 
 
+- [**FilterWordsByLength**](FilterWordsByLength/FilterWordsByLength/Program.cs): uma aplicação de console em C# que filtra palavras de uma lista com base no comprimento. Utiliza o método `Where` da biblioteca `LINQ` para retornar apenas as palavras cujo comprimento seja maior que o valor especificado. Retorna uma nova lista com as palavras filtradas.
+
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
