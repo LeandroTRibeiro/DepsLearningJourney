@@ -21,7 +21,11 @@ Este repositório reflete meu desafio pessoal de aprender uma nova linguagem de 
  - [`projects/`](projects): Espaço reservado para projetos pessoais e estudos de caso que integram diversos conceitos estudados, permitindo a aplicação prática do conhecimento.
 
 
+- [`certificates/`](certificates): Pasta dedicada aos certificados dos cursos realizados durante o estágio, utilizados para comprovação de horas complementares e desenvolvimento profissional.
+
+
  - `assets/`: Pasta dedicada ao armazenamento de recursos estáticos, como imagens e logos, usados nas documentações.
+
 
 ## Como Utilizar Este Repositório 🧭
 
