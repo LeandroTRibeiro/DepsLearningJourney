@@ -64,6 +64,9 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**FilterWordsByLength**](FilterWordsByLength/FilterWordsByLength/Program.cs): uma aplicação de console em C# que filtra palavras de uma lista com base no comprimento. Utiliza o método `Where` da biblioteca `LINQ` para retornar apenas as palavras cujo comprimento seja maior que o valor especificado. Retorna uma nova lista com as palavras filtradas.
 
 
+- [**SumEvenNumbers**](SumEvenNumbersWithWhere/SumEvenNumbersWithWhere/Program.cs): uma aplicação de console em C# que soma todos os números pares de uma lista de inteiros. Utiliza o método `Where` do LINQ para filtrar os números pares e o método `Sum` para calcular a soma. Retorna a soma total dos números pares.
+
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
