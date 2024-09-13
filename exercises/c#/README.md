@@ -70,6 +70,12 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**AnalyzeProductCatalog**](AnalyzeProductCatalog/AnalyzeProductCatalog/Program.cs): uma aplicação de console em C# que realiza diversas operações sobre uma lista de produtos, utilizando LINQ. O programa permite filtrar produtos por categoria, ordenar por preço, agrupar por categoria, selecionar produtos com preço abaixo de um valor específico, e calcular o preço total de todos os produtos. Cada operação é realizada de forma modular por métodos dentro da classe `ProductFilters`.
 
 
+- [**RemoveDuplicates**](RemoveDuplicates/RemoveDuplicates/Program.cs): uma aplicação de console em C# que remove duplicatas de uma lista de inteiros. Utiliza a classe `HashSet<int>` para garantir que apenas números únicos sejam mantidos na lista. Retorna uma lista de inteiros sem duplicatas.
+
+
+- [**IsPalindrome2**](IsPalindrome2/IsPalindrome2/Program.cs): uma aplicação de console em C# que verifica se um número inteiro é um palíndromo. Utiliza o método `Reverse()` do LINQ para inverter o número, comparando-o com o valor original. Retorna `true` se o número for um palíndromo, ou `false` caso contrário.
+
+
 
 ## Documentação Oficial 📚
 
