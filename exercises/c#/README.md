@@ -67,6 +67,19 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**SumEvenNumbers**](SumEvenNumbersWithWhere/SumEvenNumbersWithWhere/Program.cs): uma aplicação de console em C# que soma todos os números pares de uma lista de inteiros. Utiliza o método `Where` do LINQ para filtrar os números pares e o método `Sum` para calcular a soma. Retorna a soma total dos números pares.
 
 
+- [**AnalyzeProductCatalog**](AnalyzeProductCatalog/AnalyzeProductCatalog/Program.cs): uma aplicação de console em C# que realiza diversas operações sobre uma lista de produtos, utilizando LINQ. O programa permite filtrar produtos por categoria, ordenar por preço, agrupar por categoria, selecionar produtos com preço abaixo de um valor específico, e calcular o preço total de todos os produtos. Cada operação é realizada de forma modular por métodos dentro da classe `ProductFilters`.
+
+
+- [**RemoveDuplicates**](RemoveDuplicates/RemoveDuplicates/Program.cs): uma aplicação de console em C# que remove duplicatas de uma lista de inteiros. Utiliza a classe `HashSet<int>` para garantir que apenas números únicos sejam mantidos na lista. Retorna uma lista de inteiros sem duplicatas.
+
+
+- [**IsPalindrome2**](IsPalindrome2/IsPalindrome2/Program.cs): uma aplicação de console em C# que verifica se um número inteiro é um palíndromo. Utiliza o método `Reverse()` do LINQ para inverter o número, comparando-o com o valor original. Retorna `true` se o número for um palíndromo, ou `false` caso contrário.
+
+
+- [**MangoSellerGraph**](MangoSeller/MangoSeller/Program.cs): uma aplicação de console em C# que implementa uma estrutura de grafo usando `Dictionary`. Permite adicionar pessoas, criar conexões entre elas, e utilizar o algoritmo de busca em largura (BFS) para verificar se há uma pessoa conectada que é vendedora de mangas. A busca percorre as conexões a partir de um ponto inicial e utiliza um critério personalizado passado como argumento.
+
+
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
