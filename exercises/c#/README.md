@@ -76,6 +76,9 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**IsPalindrome2**](IsPalindrome2/IsPalindrome2/Program.cs): uma aplicação de console em C# que verifica se um número inteiro é um palíndromo. Utiliza o método `Reverse()` do LINQ para inverter o número, comparando-o com o valor original. Retorna `true` se o número for um palíndromo, ou `false` caso contrário.
 
 
+- [**MangoSellerGraph**](MangoSeller/MangoSeller/Program.cs): uma aplicação de console em C# que implementa uma estrutura de grafo usando `Dictionary`. Permite adicionar pessoas, criar conexões entre elas, e utilizar o algoritmo de busca em largura (BFS) para verificar se há uma pessoa conectada que é vendedora de mangas. A busca percorre as conexões a partir de um ponto inicial e utiliza um critério personalizado passado como argumento.
+
+
 
 ## Documentação Oficial 📚
 
