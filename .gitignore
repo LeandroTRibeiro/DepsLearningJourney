@@ -18,6 +18,9 @@
 *.lai
 *.la
 
+.env
+appsettings.json
+
 # Rider specific files #
 .idea/
 *.sln.iml
