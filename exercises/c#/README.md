@@ -79,6 +79,19 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**MangoSellerGraph**](MangoSeller/MangoSeller/Program.cs): uma aplicação de console em C# que implementa uma estrutura de grafo usando `Dictionary`. Permite adicionar pessoas, criar conexões entre elas, e utilizar o algoritmo de busca em largura (BFS) para verificar se há uma pessoa conectada que é vendedora de mangas. A busca percorre as conexões a partir de um ponto inicial e utiliza um critério personalizado passado como argumento.
 
 
+- [**TwoSum**](TwoSum/TwoSum/Program.cs): uma aplicação de console em C# que encontra dois números em uma lista de inteiros que somam a um valor-alvo. A solução utiliza dois loops aninhados para verificar cada par de números na lista, retornando os índices dos dois números que somam ao valor-alvo.
+
+
+- [**ReverseString**](ReverseString/ReverseString/Program.cs): uma aplicação de console em C# que inverte uma string de entrada. A solução utiliza o método `Reverse()` do LINQ para inverter os caracteres da string e, em seguida, converte o resultado de volta para uma nova string.
+
+
+- [**Fibonacci**](Fibonacci/Fibonacci/Program.cs): uma aplicação de console em C# que calcula o n-ésimo número da sequência de Fibonacci. A solução utiliza uma função recursiva que implementa a fórmula de Fibonacci: `F(n) = F(n-1) + F(n-2)`, com as condições base para `n = 0` e `n = 1`.
+
+
+- [**Factorial**](Factorial/Factorial/Program.cs): uma aplicação de console em C# que calcula o fatorial de um número inteiro atravéz de recursão.
+- 
+
+- [**GetProducts**](GetProducts/GetProducts/Program.cs): uma aplicação de console em C# que realiza operações CRUD em um banco de dados PostgreSQL utilizando Entity Framework Core. A aplicação permite adicionar, listar, buscar, atualizar e remover produtos.
 
 ## Documentação Oficial 📚
 
