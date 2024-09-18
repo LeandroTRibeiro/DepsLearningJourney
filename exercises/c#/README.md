@@ -93,6 +93,10 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 
 - [**GetProducts**](GetProducts/GetProducts/Program.cs): uma aplicação de console em C# que realiza operações CRUD em um banco de dados PostgreSQL utilizando Entity Framework Core. A aplicação permite adicionar, listar, buscar, atualizar e remover produtos.
 
+
+- [**FindPairsWithSum**](FindPairsWithSum/FindPairsWithSum/Program.cs): uma aplicação de console em C# que encontra pares de números cuja soma é igual a um valor-alvo, utilizando um `HashSet` para otimizar a busca e `yield return` para retorno sob demanda.
+
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
