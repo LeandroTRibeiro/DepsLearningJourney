@@ -100,6 +100,9 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**MoveZerosToEnd**](MoveZerosToEnd/MoveZerosToEnd/Program.cs): uma aplicação de console em C# que move todos os zeros de uma lista para o final, mantendo a ordem dos demais elementos. A aplicação inclui duas abordagens: uma utilizando LINQ para realizar a operação, e outra utilizando uma solução "in-place" para otimizar a performance. [**Testes unitários**](MoveZerosToEnd/MoveZerosToEndTest/ProgramTest.cs) foram implementados para verificar a corretude de ambas as funções, e o **BenchmarkDotNet** foi utilizado para comparar o desempenho das duas implementações, mostrando que a abordagem "in-place" é mais eficiente em termos de tempo de execução.
 
 
+- [**GetDivisors**](GetDivisors/GetDivisors/Program.cs): uma aplicação de console em C# que encontra todos os divisores de um número inteiro positivo. O programa utiliza LINQ para realizar a operação e inclui [testes automatizados](GetDivisors/GetDivisors.Test/ProgramTest.cs)  que garantem o comportamento correto da função de divisores e o tratamento de exceções para entradas inválidas.
+
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
