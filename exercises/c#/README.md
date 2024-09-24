@@ -89,9 +89,19 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 
 
 - [**Factorial**](Factorial/Factorial/Program.cs): uma aplicação de console em C# que calcula o fatorial de um número inteiro atravéz de recursão.
-- 
+
 
 - [**GetProducts**](GetProducts/GetProducts/Program.cs): uma aplicação de console em C# que realiza operações CRUD em um banco de dados PostgreSQL utilizando Entity Framework Core. A aplicação permite adicionar, listar, buscar, atualizar e remover produtos.
+
+
+- [**FindPairsWithSum**](FindPairsWithSum/FindPairsWithSum/Program.cs): uma aplicação de console em C# que encontra pares de números cuja soma é igual a um valor-alvo, utilizando um `HashSet` para otimizar a busca e `yield return` para retorno sob demanda.
+
+
+- [**MoveZerosToEnd**](MoveZerosToEnd/MoveZerosToEnd/Program.cs): uma aplicação de console em C# que move todos os zeros de uma lista para o final, mantendo a ordem dos demais elementos. A aplicação inclui duas abordagens: uma utilizando LINQ para realizar a operação, e outra utilizando uma solução "in-place" para otimizar a performance. [**Testes unitários**](MoveZerosToEnd/MoveZerosToEndTest/ProgramTest.cs) foram implementados para verificar a corretude de ambas as funções, e o **BenchmarkDotNet** foi utilizado para comparar o desempenho das duas implementações, mostrando que a abordagem "in-place" é mais eficiente em termos de tempo de execução.
+
+
+- [**GetDivisors**](GetDivisors/GetDivisors/Program.cs): uma aplicação de console em C# que encontra todos os divisores de um número inteiro positivo. O programa utiliza LINQ para realizar a operação e inclui [testes automatizados](GetDivisors/GetDivisors.Test/ProgramTest.cs)  que garantem o comportamento correto da função de divisores e o tratamento de exceções para entradas inválidas.
+
 
 ## Documentação Oficial 📚
 
