@@ -103,6 +103,9 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**GetDivisors**](GetDivisors/GetDivisors/Program.cs): uma aplicação de console em C# que encontra todos os divisores de um número inteiro positivo. O programa utiliza LINQ para realizar a operação e inclui [testes automatizados](GetDivisors/GetDivisors.Test/ProgramTest.cs)  que garantem o comportamento correto da função de divisores e o tratamento de exceções para entradas inválidas.
 
 
+- [**SortPersonBy**](SortPersonBy/Presentation/Program.cs): uma aplicação de console em C# que ordena uma lista de pessoas por nome e idade. O programa utiliza LINQ para realizar a ordenação e inclui [testes automatizados](SortPersonBy/SortPersonByTest/Application/Services/PersonServiceTest.cs) que garantem o comportamento correto das funções de ordenação e o tratamento de listas nulas ou vazias.
+
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
