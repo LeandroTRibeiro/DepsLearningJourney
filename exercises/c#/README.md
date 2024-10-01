@@ -111,6 +111,8 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 
 - [**CustomSort**](CustomSort/CustomSort/Program.cs): uma aplicação de console em C# que ordena uma lista de palavras com base na quantidade de letras repetidas em cada palavra. A aplicação utiliza `Dictionary` para contar a frequência de cada letra nas palavras e ordena-as de acordo com o número total de repetições, utilizando `OrderBy` e `ThenBy` do LINQ. Se houver empate no número de repetições, as palavras são ordenadas alfabeticamente. A solução inclui [testes automatizados](CustomSort/CustomSortTest/ProgramTest.cs) utilizando **xUnit**, com diferentes cenários de teste, incluindo listas vazias, listas com uma única palavra, e diferentes combinações de letras repetidas.
 
+- [**DrawStarTree**](DrawStarTree/DrawStarTree/Program.cs): uma aplicação de console em C# que desenha uma árvore de estrelas baseada na altura fornecida pelo usuário. Além da árvore normal, a solução também inclui uma árvore de estrelas invertida, permitindo uma variação interessante do padrão visual.
+
 
 ## Documentação Oficial 📚
 
