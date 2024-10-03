@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSecondLargestNumber", "FindSecondLargestNumber\FindSecondLargestNumber.csproj", "{F72D1F96-7B8E-4903-80F1-4F45060A8354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSecondLargestNumberTest", "FindSecondLargestNumberTest\FindSecondLargestNumberTest.csproj", "{3AFFFEA1-FFBA-4B10-BA5D-848718A1CA22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72D1F96-7B8E-4903-80F1-4F45060A8354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72D1F96-7B8E-4903-80F1-4F45060A8354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72D1F96-7B8E-4903-80F1-4F45060A8354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72D1F96-7B8E-4903-80F1-4F45060A8354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AFFFEA1-FFBA-4B10-BA5D-848718A1CA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFFFEA1-FFBA-4B10-BA5D-848718A1CA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFFFEA1-FFBA-4B10-BA5D-848718A1CA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFFFEA1-FFBA-4B10-BA5D-848718A1CA22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

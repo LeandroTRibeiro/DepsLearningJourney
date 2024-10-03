@@ -114,6 +114,8 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**DrawStarTree**](DrawStarTree/DrawStarTree/Program.cs): uma aplicação de console em C# que desenha uma árvore de estrelas baseada na altura fornecida pelo usuário. Além da árvore normal, a solução também inclui uma árvore de estrelas invertida, permitindo uma variação interessante do padrão visual.
 
 
+- [**FindSecondLargestNumber**](FindSecondLargestNumber/FindSecondLargestNumber/Program.cs): uma aplicação de console em C# que encontra o segundo maior número em um array de inteiros. O programa possui duas abordagens: uma implementada manualmente com o uso de loops aninhados, e outra que utiliza o método `Array.Sort`. Além disso, benchmarks foram realizados utilizando **BenchmarkDotNet** para comparar o desempenho das duas soluções. A aplicação inclui [testes automatizados](FindSecondLargestNumber/FindSecondLargestNumberTest/ProgramTest.cs) para validar o comportamento correto das funções, incluindo cenários com arrays nulos, vazios e arrays contendo números repetidos.
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
