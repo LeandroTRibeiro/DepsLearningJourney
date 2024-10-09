@@ -9,5 +9,5 @@ public interface IBrasilApi
     
     Task<ResponseGenerico<List<BancoModel>>> BuscasTodosBancos();
     
-    Task<ResponseGenerico<BancoModel>> BuscasEnderecoPorCodigo(string codigoBanco);
+    Task<ResponseGenerico<BancoModel>> BuscarBancoPorCodigo(string codigoBanco);
 }

@@ -15,6 +15,7 @@ builder.Services.AddSingleton<IBancoService, BancoService>();
 builder.Services.AddSingleton<IBrasilApi, BrasilApiRest>();
 
 builder.Services.AddAutoMapper(typeof(EnderecoMapping));
+builder.Services.AddAutoMapper(typeof(BancoMapping));
 
 var app = builder.Build();
 

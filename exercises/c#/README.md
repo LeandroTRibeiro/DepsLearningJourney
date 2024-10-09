@@ -104,7 +104,17 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 
 
 - [**SortPersonBy**](SortPersonBy/Presentation/Program.cs): uma aplicação de console em C# que ordena uma lista de pessoas por nome e idade. O programa utiliza LINQ para realizar a ordenação e inclui [testes automatizados](SortPersonBy/SortPersonByTest/Application/Services/PersonServiceTest.cs) que garantem o comportamento correto das funções de ordenação e o tratamento de listas nulas ou vazias.
+- 
 
+- [**RemoveDuplicates2**](RemoveDuplicates2/RemoveDuplicates/Program.cs): uma aplicação de console em C# que remove duplicatas de um array de inteiros. O programa possui duas abordagens: uma utilizando `HashSet` e outra utilizando `List`. Além disso, benchmarks foram realizados utilizando **BenchmarkDotNet** para comparar a eficiência das duas soluções. A aplicação inclui [testes automatizados](RemoveDuplicates2/RemoveDuplicatesTest/ProgramTest.cs) para garantir o comportamento correto das funções, incluindo cenários com arrays nulos, vazios e com duplicatas.
+
+
+- [**CustomSort**](CustomSort/CustomSort/Program.cs): uma aplicação de console em C# que ordena uma lista de palavras com base na quantidade de letras repetidas em cada palavra. A aplicação utiliza `Dictionary` para contar a frequência de cada letra nas palavras e ordena-as de acordo com o número total de repetições, utilizando `OrderBy` e `ThenBy` do LINQ. Se houver empate no número de repetições, as palavras são ordenadas alfabeticamente. A solução inclui [testes automatizados](CustomSort/CustomSortTest/ProgramTest.cs) utilizando **xUnit**, com diferentes cenários de teste, incluindo listas vazias, listas com uma única palavra, e diferentes combinações de letras repetidas.
+
+- [**DrawStarTree**](DrawStarTree/DrawStarTree/Program.cs): uma aplicação de console em C# que desenha uma árvore de estrelas baseada na altura fornecida pelo usuário. Além da árvore normal, a solução também inclui uma árvore de estrelas invertida, permitindo uma variação interessante do padrão visual.
+
+
+- [**FindSecondLargestNumber**](FindSecondLargestNumber/FindSecondLargestNumber/Program.cs): uma aplicação de console em C# que encontra o segundo maior número em um array de inteiros. O programa possui duas abordagens: uma implementada manualmente com o uso de loops aninhados, e outra que utiliza o método `Array.Sort`. Além disso, benchmarks foram realizados utilizando **BenchmarkDotNet** para comparar o desempenho das duas soluções. A aplicação inclui [testes automatizados](FindSecondLargestNumber/FindSecondLargestNumberTest/ProgramTest.cs) para validar o comportamento correto das funções, incluindo cenários com arrays nulos, vazios e arrays contendo números repetidos.
 
 ## Documentação Oficial 📚
 
