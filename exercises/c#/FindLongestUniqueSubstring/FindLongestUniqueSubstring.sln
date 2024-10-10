@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLongestUniqueSubstring", "FindLongestUniqueSubstring\FindLongestUniqueSubstring.csproj", "{5AF177D8-D6BE-4B13-A25F-DFE6D2572299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLongestUniqueSubstring.Test", "FindLongestUniqueSubstring.Test\FindLongestUniqueSubstring.Test.csproj", "{3E399A77-2500-476B-AA5B-096F4CE97931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLongestUniqueSubstringBenchmark", "FindLongestUniqueSubstringBenchmark\FindLongestUniqueSubstringBenchmark.csproj", "{04ED5F70-4985-462C-94FA-32D871CD1FD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AF177D8-D6BE-4B13-A25F-DFE6D2572299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF177D8-D6BE-4B13-A25F-DFE6D2572299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF177D8-D6BE-4B13-A25F-DFE6D2572299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF177D8-D6BE-4B13-A25F-DFE6D2572299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E399A77-2500-476B-AA5B-096F4CE97931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E399A77-2500-476B-AA5B-096F4CE97931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E399A77-2500-476B-AA5B-096F4CE97931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E399A77-2500-476B-AA5B-096F4CE97931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04ED5F70-4985-462C-94FA-32D871CD1FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04ED5F70-4985-462C-94FA-32D871CD1FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04ED5F70-4985-462C-94FA-32D871CD1FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04ED5F70-4985-462C-94FA-32D871CD1FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
