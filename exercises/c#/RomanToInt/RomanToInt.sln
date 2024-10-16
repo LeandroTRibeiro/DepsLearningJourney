@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInt", "RomanToInt\RomanToInt.csproj", "{240DE60E-067C-4941-84F6-103662F6DA9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToIntTest", "RomanToIntTest\RomanToIntTest.csproj", "{F205038C-B7F7-484C-B081-AB4FF6987994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240DE60E-067C-4941-84F6-103662F6DA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240DE60E-067C-4941-84F6-103662F6DA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240DE60E-067C-4941-84F6-103662F6DA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240DE60E-067C-4941-84F6-103662F6DA9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F205038C-B7F7-484C-B081-AB4FF6987994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F205038C-B7F7-484C-B081-AB4FF6987994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F205038C-B7F7-484C-B081-AB4FF6987994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F205038C-B7F7-484C-B081-AB4FF6987994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
