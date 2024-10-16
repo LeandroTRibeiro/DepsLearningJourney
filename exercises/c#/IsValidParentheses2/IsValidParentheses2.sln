@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsValidParentheses2", "IsValidParentheses2\IsValidParentheses2.csproj", "{C3D9DB1B-06B0-44E6-B353-976C72F15EC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsValidParentheses2Test", "IsValidParentheses2Test\IsValidParentheses2Test.csproj", "{495D9877-63C2-49C9-B8A2-8E632C9733D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3D9DB1B-06B0-44E6-B353-976C72F15EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D9DB1B-06B0-44E6-B353-976C72F15EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D9DB1B-06B0-44E6-B353-976C72F15EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D9DB1B-06B0-44E6-B353-976C72F15EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495D9877-63C2-49C9-B8A2-8E632C9733D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495D9877-63C2-49C9-B8A2-8E632C9733D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495D9877-63C2-49C9-B8A2-8E632C9733D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495D9877-63C2-49C9-B8A2-8E632C9733D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

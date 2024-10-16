@@ -125,6 +125,12 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 
 - [**AnagramGrouping**](AnagramGrouping/AnagramGrouping/Program.cs): uma aplicação de console em C# que agrupa palavras que são anagramas entre si a partir de uma lista de strings. O programa usa a ordenação das letras de cada palavra como chave para identificar anagramas e agrupá-los corretamente. Além disso, foram realizados [testes automatizados](AnagramGrouping/AnagramGroupingTest/Program.Test.cs) para garantir que a função lida adequadamente com entradas válidas, como listas de anagramas, e também com entradas inválidas, como listas vazias ou nulas. A exceção `ArgumentException` foi implementada para tratar casos de entrada incorretos.
 
+
+- [**IsValidParentheses**](IsValidParentheses2/IsValidParentheses2/Program.cs): uma aplicação de console em C# que valida se uma string contendo parênteses, chaves e colchetes está corretamente balanceada. O programa utiliza uma pilha para garantir que os parênteses de abertura tenham correspondência com os de fechamento, e ignora outros caracteres como letras e espaços. Além disso, foram realizados [testes automatizados](IsValidParentheses2/IsValidParentheses2Test/ProgramTest.cs) cobrindo diferentes cenários, como strings vazias, nulas, parênteses não balanceados, e mistura de parênteses com outros caracteres. Os testes também incluem casos de entradas inválidas, onde a função retorna `false`.
+
+
+- [**RomanToInt**](RomanToInt/RomanToInt/Program.cs): uma aplicação de console em C# que converte números romanos para inteiros. O programa lida com entradas em diferentes formatos, incluindo caracteres minúsculos e espaços, e valida se os números romanos são corretamente formatados. Entradas inválidas, como repetições excessivas de certos símbolos ou caracteres não-romanos, são tratadas e resultam em um valor de erro. Além disso, [testes automatizados](RomanToInt/RomanToIntTest/ProgramTest.cs) foram implementados para garantir o comportamento correto das funções, cobrindo uma ampla gama de cenários, como entradas válidas, inválidas, nulas e com espaços extras.
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
