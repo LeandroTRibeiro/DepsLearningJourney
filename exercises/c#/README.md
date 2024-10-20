@@ -111,6 +111,7 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 
 - [**CustomSort**](CustomSort/CustomSort/Program.cs): uma aplicação de console em C# que ordena uma lista de palavras com base na quantidade de letras repetidas em cada palavra. A aplicação utiliza `Dictionary` para contar a frequência de cada letra nas palavras e ordena-as de acordo com o número total de repetições, utilizando `OrderBy` e `ThenBy` do LINQ. Se houver empate no número de repetições, as palavras são ordenadas alfabeticamente. A solução inclui [testes automatizados](CustomSort/CustomSortTest/ProgramTest.cs) utilizando **xUnit**, com diferentes cenários de teste, incluindo listas vazias, listas com uma única palavra, e diferentes combinações de letras repetidas.
 
+
 - [**DrawStarTree**](DrawStarTree/DrawStarTree/Program.cs): uma aplicação de console em C# que desenha uma árvore de estrelas baseada na altura fornecida pelo usuário. Além da árvore normal, a solução também inclui uma árvore de estrelas invertida, permitindo uma variação interessante do padrão visual.
 
 
@@ -130,6 +131,9 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 
 
 - [**RomanToInt**](RomanToInt/RomanToInt/Program.cs): uma aplicação de console em C# que converte números romanos para inteiros. O programa lida com entradas em diferentes formatos, incluindo caracteres minúsculos e espaços, e valida se os números romanos são corretamente formatados. Entradas inválidas, como repetições excessivas de certos símbolos ou caracteres não-romanos, são tratadas e resultam em um valor de erro. Além disso, [testes automatizados](RomanToInt/RomanToIntTest/ProgramTest.cs) foram implementados para garantir o comportamento correto das funções, cobrindo uma ampla gama de cenários, como entradas válidas, inválidas, nulas e com espaços extras.
+
+
+- [**SingleNumber**](SingleNumber/SingleNumber/Program.cs): uma aplicação de console em C# que encontra todos os números que aparecem apenas uma vez em uma lista de inteiros. A aplicação inclui duas abordagens: a primeira utiliza LINQ para agrupar e filtrar os números únicos, enquanto a segunda abordagem usa um `Dictionary` para contar as ocorrências e identificar os números que aparecem uma única vez. Ambas as soluções são comparadas em termos de eficiência através de [**BenchmarkDotNet**](SingleNumber/BenchmarkSingleNumber/Program.cs) É interessante perceber que o uso do LINQ nesta solução, apesar de ser mais conciso e declarativo, acaba sendo menos eficiente em termos de performance, e a solução inclui [testes automatizados](SingleNumber/SingleNumberTest/ProgramTest.cs) utilizando **xUnit**, cobrindo diferentes cenários, como listas com números repetidos, listas vazias e listas contendo números negativos.
 
 ## Documentação Oficial 📚
 
