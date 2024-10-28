@@ -138,6 +138,13 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 
 - [**GroupAndSortByEvenOdd**](GroupAndSortByEvenOdd/GroupAndSortByEvenOdd/Program.cs): uma aplicação de console em C# que agrupa números pares e ímpares de uma lista e os ordenada. A aplicação oferece três abordagens diferentes para realizar essa tarefa, incluindo uma solução que utiliza `GroupBy` do LINQ e outra que utiliza `Dictionary` com manipulação manual. Benchmarks foram realizados utilizando [**BenchmarkDotNet**](GroupAndSortByEvenOdd/BenchmarkGroupByEvenOdd/Program.cs) para comparar o desempenho das diferentes abordagens. A aplicação também inclui [testes automatizados](GroupAndSortByEvenOdd/GroupAndSortByEvenOddTest/ProgramTest.cs) utilizando **xUnit**, cobrindo cenários como listas vazias, listas contendo apenas números pares ou ímpares, e combinações mistas.
 
+
+- [**IsPalindrome1**](IsPalindrome1/IsPalindrome1/Program.cs): uma aplicação de console em C# que verifica se uma string ou uma lista de palavras contém palíndromos. A solução utiliza **métodos de extensão** para criar funcionalidades reutilizáveis, como a verificação de palíndromos e o agrupamento de palavras. O método `IsPalindrome` limpa a string e faz a verificação ignorando pontuação, espaços e diferenças entre maiúsculas e minúsculas. A função `GroupByPalindrome` agrupa as palavras em dois grupos: "palíndromos" e "não-palíndromos", exibindo o resultado de forma formatada.
+
+
+- [**CalculatePrimeSum**](CalculatePrimeSum/CalculatePrimeSum/CalculatePrimeSum.cs): uma biblioteca em C# que fornece uma função para calcular a soma de todos os números primos até um valor especificado. A função é implementada como um *extension method*, permitindo uma chamada intuitiva diretamente em um número inteiro.
+
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
