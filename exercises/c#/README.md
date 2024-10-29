@@ -145,6 +145,8 @@ Bem-vindo à seção de exercícios de C# do repositório! Esta pasta é dedicad
 - [**CalculatePrimeSum**](CalculatePrimeSum/CalculatePrimeSum/CalculatePrimeSum.cs): uma biblioteca em C# que fornece uma função para calcular a soma de todos os números primos até um valor especificado. A função é implementada como um *extension method*, permitindo uma chamada intuitiva diretamente em um número inteiro.
 
 
+- [**FindSubsetsThatSumToTarget**](FindSubsetsThatSumToTarget/FindSubsetsThatSumToTarget/Program.cs): uma aplicação de console em C# que encontra todos os subconjuntos de uma lista de números inteiros cuja soma dos elementos é igual a um valor alvo. O código utiliza **recursão** para gerar e verificar todos os subconjuntos possíveis. A implementação também faz uso de **métodos de extensão** para facilitar o uso da função diretamente nas listas de inteiros.
+
 ## Documentação Oficial 📚
 
 Para mais informações e detalhes sobre os conceitos abordados nos exercícios, consulte a [Documentação Oficial do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/).
